@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/noodle-woodle/static/css/main.73563a49.css",
+    "main.js": "/noodle-woodle/static/js/main.f0b99191.js",
+    "static/js/787.61da1d77.chunk.js": "/noodle-woodle/static/js/787.61da1d77.chunk.js",
+    "index.html": "/noodle-woodle/index.html",
+    "main.73563a49.css.map": "/noodle-woodle/static/css/main.73563a49.css.map",
+    "main.f0b99191.js.map": "/noodle-woodle/static/js/main.f0b99191.js.map",
+    "787.61da1d77.chunk.js.map": "/noodle-woodle/static/js/787.61da1d77.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73563a49.css",
+    "static/js/main.f0b99191.js"
+  ]
+}
